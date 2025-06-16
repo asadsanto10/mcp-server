@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "my-mcp-server-16cf06a7": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["/home/santo/Desktop/mcp-server/dist/app.js"]
+    }
+  }
+}
